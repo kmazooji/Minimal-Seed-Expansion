@@ -1,5 +1,9 @@
 # Minimal-Seed-Expansion
-The clustering algorithm introduced in the paper "Guaranteed Recovery of Unambiguous Clusters" available at https://arxiv.org/abs/2501.13093.  In specific, this is the algorithm used in the experiments section of the paper.  This implementation approximates the minimum A value that gives a K-clustering by progressively changing A until a K-clustering is obtained.
+The clustering algorithm introduced in the paper "Guaranteed Recovery of Unambiguous Clusters" available at: 
+
+https://arxiv.org/abs/2501.13093  
+
+In specific, this is the algorithm used in the experiments section of the paper.  This implementation approximates the minimum A value that gives a K-clustering by progressively changing A until a K-clustering is obtained.
 
 Npts, K, M, D are all defined in the paper.
 
