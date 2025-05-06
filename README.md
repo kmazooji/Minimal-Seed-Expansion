@@ -8,8 +8,11 @@ In specific, this is the algorithm used in the experiments section of the paper.
 Npts, K, M, D are all defined in the paper.
 
 A_init - the initial value of A tried
+
 A_step - the step size of A used in the inital search
+
 A_max_iter - the maximum number of A values that can be tried
+
 expansion_Npts - the Npts value used in the greedy expansion step of the algoirhtm
 
 If the current parameter selection doesn't yield a K-clustering, a different setting of the paramaters may work.
