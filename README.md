@@ -17,6 +17,6 @@ expansion_Npts - the Npts value used in the greedy expansion step of the algoirh
 If the current parameter selection doesn't yield a K-clustering, a different setting of the paramaters may work.
 
 
-If you use this code, please cite the paper:
+If you use the code provided here, please cite the paper:
 
 Kayvon Mazooji, Ilan Shomorony, "Guaranteed Recovery of Unambiguous Clusters," 2025 IEEE International Symposium on Information Theory (ISIT), Ann Arbor, Michigan, June 2025.
