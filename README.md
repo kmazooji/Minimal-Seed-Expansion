@@ -19,4 +19,5 @@ If the current parameter selection doesn't yield a K-clustering, a different set
 
 If you use the code provided here, please cite the paper:
 
-Kayvon Mazooji, Ilan Shomorony, "Guaranteed Recovery of Unambiguous Clusters," 2025 IEEE International Symposium on Information Theory (ISIT), Ann Arbor, Michigan, June 2025.
+Kayvon Mazooji, Ilan Shomorony, "Guaranteed Recovery of Unambiguous Clusters," arXiv, 2025, arXiv:2501.13093.
+(accepted to 2025 IEEE International Symposium on Information Theory (ISIT), Ann Arbor, Michigan, June 2025)
